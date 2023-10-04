@@ -1,0 +1,80 @@
+2023-08-24 11:52:23,547:INFO:test_getdata:['tejaswi', 'rudraraju', 'nandyala']
+2023-08-24 11:52:23,559:INFO:test_paramFixture:chrome
+2023-08-24 11:52:23,570:INFO:test_paramFixture:firefox
+2023-08-24 11:52:23,570:INFO:test_paramFixture:firefox
+2023-08-24 11:52:23,583:INFO:test_paramFixture:edge
+2023-08-24 11:52:23,583:INFO:test_paramFixture:edge
+2023-08-24 11:52:23,583:INFO:test_paramFixture:edge
+2023-08-24 11:52:23,590:DEBUG:test_logging:debugging message
+2023-08-24 11:52:23,590:INFO:test_logging:info message
+2023-08-24 11:52:23,590:WARNING:test_logging:warning  message
+2023-08-24 11:52:23,590:ERROR:test_logging:error message
+2023-08-24 11:52:23,591:CRITICAL:test_logging:critical message
+2023-08-24 11:55:22,749:INFO:test_getdata:['tejaswi', 'rudraraju', 'nandyala']
+2023-08-24 11:55:22,765:INFO:test_paramFixture:chrome
+2023-08-24 11:55:22,776:INFO:test_paramFixture:firefox
+2023-08-24 11:55:22,776:INFO:test_paramFixture:firefox
+2023-08-24 11:55:22,788:INFO:test_paramFixture:edge
+2023-08-24 11:55:22,788:INFO:test_paramFixture:edge
+2023-08-24 11:55:22,788:INFO:test_paramFixture:edge
+2023-08-24 11:55:22,793:DEBUG:test_logging:debugging message
+2023-08-24 11:55:22,793:INFO:test_logging:info message
+2023-08-24 11:55:22,793:WARNING:test_logging:warning  message
+2023-08-24 11:55:22,794:ERROR:test_logging:error message
+2023-08-24 11:55:22,794:CRITICAL:test_logging:critical message
+2023-08-24 11:57:00,982:DEBUG:test_logging:debugging message
+2023-08-24 11:57:00,982:INFO:test_logging:info message
+2023-08-24 11:57:00,983:WARNING:test_logging:warning  message
+2023-08-24 11:57:00,983:ERROR:test_logging:error message
+2023-08-24 11:57:00,983:CRITICAL:test_logging:critical message
+2023-08-24 11:57:55,671:DEBUG:test_logging:debugging message
+2023-08-24 11:57:55,672:INFO:test_logging:info message
+2023-08-24 11:57:55,672:WARNING:test_logging:warning  message
+2023-08-24 11:57:55,672:ERROR:test_logging:error message
+2023-08-24 11:57:55,672:CRITICAL:test_logging:critical message
+2023-08-24 11:58:48,440:INFO:test_getdata:['tejaswi', 'rudraraju', 'nandyala']
+2023-08-24 11:58:48,456:INFO:test_paramFixture:chrome
+2023-08-24 11:58:48,473:INFO:test_paramFixture:firefox
+2023-08-24 11:58:48,473:INFO:test_paramFixture:firefox
+2023-08-24 11:58:48,489:INFO:test_paramFixture:edge
+2023-08-24 11:58:48,489:INFO:test_paramFixture:edge
+2023-08-24 11:58:48,489:INFO:test_paramFixture:edge
+2023-08-24 11:58:48,497:DEBUG:test_logging:debugging message
+2023-08-24 11:58:48,497:INFO:test_logging:info message
+2023-08-24 11:58:48,497:WARNING:test_logging:warning  message
+2023-08-24 11:58:48,497:ERROR:test_logging:error message
+2023-08-24 11:58:48,498:CRITICAL:test_logging:critical message
+2023-08-24 12:01:47,493:INFO:test_getdata:['tejaswi', 'rudraraju', 'nandyala']
+2023-08-24 12:01:47,509:INFO:test_paramFixture:chrome
+2023-08-24 12:01:47,527:INFO:test_paramFixture:firefox
+2023-08-24 12:01:47,527:INFO:test_paramFixture:firefox
+2023-08-24 12:01:47,545:INFO:test_paramFixture:edge
+2023-08-24 12:01:47,545:INFO:test_paramFixture:edge
+2023-08-24 12:01:47,545:INFO:test_paramFixture:edge
+2023-08-24 12:01:47,549:DEBUG:test_logging:debugging message
+2023-08-24 12:01:47,549:INFO:test_logging:info message
+2023-08-24 12:01:47,549:WARNING:test_logging:warning  message
+2023-08-24 12:01:47,549:ERROR:test_logging:error message
+2023-08-24 12:01:47,549:CRITICAL:test_logging:critical message
+2023-09-01 12:19:50,510:INFO:test_demo.reusableLogger:chrome
+2023-09-01 12:19:50,522:INFO:test_demo.reusableLogger:firefox
+2023-09-01 12:19:50,522:INFO:test_demo.reusableLogger:firefox
+2023-09-01 12:19:50,532:INFO:test_demo.reusableLogger:edge
+2023-09-01 12:19:50,532:INFO:test_demo.reusableLogger:edge
+2023-09-01 12:19:50,532:INFO:test_demo.reusableLogger:edge
+2023-09-01 12:19:50,537:DEBUG:test_demo.test_logging:debugging message
+2023-09-01 12:19:50,537:INFO:test_demo.test_logging:info message
+2023-09-01 12:19:50,537:WARNING:test_demo.test_logging:warning  message
+2023-09-01 12:19:50,537:ERROR:test_demo.test_logging:error message
+2023-09-01 12:19:50,537:CRITICAL:test_demo.test_logging:critical message
+2023-09-01 12:21:02,355:INFO:test_demo.reusableLogger:chrome
+2023-09-01 12:21:02,366:INFO:test_demo.reusableLogger:firefox
+2023-09-01 12:21:02,366:INFO:test_demo.reusableLogger:firefox
+2023-09-01 12:21:02,378:INFO:test_demo.reusableLogger:edge
+2023-09-01 12:21:02,378:INFO:test_demo.reusableLogger:edge
+2023-09-01 12:21:02,378:INFO:test_demo.reusableLogger:edge
+2023-09-01 12:21:02,382:DEBUG:test_demo.test_logging:debugging message
+2023-09-01 12:21:02,383:INFO:test_demo.test_logging:info message
+2023-09-01 12:21:02,383:WARNING:test_demo.test_logging:warning  message
+2023-09-01 12:21:02,383:ERROR:test_demo.test_logging:error message
+2023-09-01 12:21:02,383:CRITICAL:test_demo.test_logging:critical message
